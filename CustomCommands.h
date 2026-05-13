@@ -2,7 +2,6 @@
 #define CUSTOMCOMMANDS_H
 
 #include <stdbool.h>
-#include <stddef.h>
 
 typedef struct ScreenManager_struct ScreenManager;
 
