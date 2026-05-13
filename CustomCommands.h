@@ -2,7 +2,9 @@
 #define CUSTOMCOMMANDS_H
 
 #include <stdbool.h>
-#include "ScreenManager.h"
+#include <stddef.h>
+
+typedef struct ScreenManager_struct ScreenManager;
 
 bool handle_custom_command(const char* input, ScreenManager* scr);
 
