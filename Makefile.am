@@ -39,6 +39,8 @@ myhtopsources = \
 	ColumnsPanel.c \
 	CommandLine.c \
 	CommandScreen.c \
+	CustomCommands.c \
+	CustomCommands.h \
 	CPUMeter.c \
 	CRT.c \
 	DateTimeMeter.c \
